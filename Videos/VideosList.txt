@@ -1,0 +1,9 @@
+1. Launch TFS
+2. Launch VSTS (done)
+3. Launching Sauce Labs Dashboard (done)
+4. Launching Xamarin Test Cloud Dashboard (done)
+5. Add machines to VSTS build or TFS build (done)
+6. Add machines via lab manager 
+7. Video of defining a trigger in TFS or VSTS (done)
+8. Video of setting up build, copy, deploy, run, publish steps (*Most labour intense)
+9. Video of analyzing dashboard (TBD)
